@@ -1,5 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Radhesh, a techy / product guy living in Palo Alto, CA.\n![radhesh](https://raw.githubusercontent.com/piprads/EstherBot/master/img/rads.jpg)\nWant to know more about bots or learn about Radhesh? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Radhesh](postback:learn_about_radhesh) %[One random fact!](postback:random_fact)",
+	"I'm here for the bot": "How is your bot experience so far?",
+	"Learn about Radhesh": "Would you like to check out his linkedin?",
     "One random fact!": "This is going to hurt just a little bit",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
